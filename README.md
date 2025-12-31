@@ -138,4 +138,4 @@ const puppeteer = require('puppeteer'); // v23.0.0 or later
 })().catch(err => {
     console.error(err);
     process.exit(1);
-});
+});https://docs.google.com/videos/d/1JZOZgtB5fcl68caqhCddi2D0QcZBtqEj9rvz_2NlTlo/play
